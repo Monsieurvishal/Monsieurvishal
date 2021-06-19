@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on :Python development for a firm
+- 🔭 I’m currently working on :Python development for a statup as a freelancer
 - 🌱 I’m currently learning: IoT and MachineLearning
 - 💬 Ask me about: electronics, Programing , History ,Geography
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/vishal-naik-342722199/
